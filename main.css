@@ -253,7 +253,7 @@ body {
 
 #panel-right {
   min-width: 500px;
-  background: #5A57FF;
+  background: peru;
   display: flex;
   flex: 1;
   align-content: center;
