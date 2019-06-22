@@ -252,8 +252,8 @@ body {
 }
 
 #panel-right {
-  min-width: 500px;
-  background: #5A57FF;
+  min-width: 600px;
+  background: rgb(252, 49, 83);
   display: flex;
   flex: 1;
   align-content: center;
